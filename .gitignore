@@ -1,0 +1,5 @@
+ECHO is on.
+*.log
+!vip.log
+node_packs/
+moh.txt
